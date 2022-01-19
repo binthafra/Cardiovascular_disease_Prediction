@@ -9,4 +9,5 @@ Machine Learning Model used:
 4. Random Forest
 5. Support Vector Machine
 6. Decision Tree Classifier
+
 ALso tunned models to get higher accuracy 
